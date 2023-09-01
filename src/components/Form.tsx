@@ -9,7 +9,7 @@ function Form() {
                 <div className='text-[#EAEAEA]'>Be honest and tell us your thought on how you think the proceedings for GraVITas can be made in any way. Feel free to talk about anyone in the senior core as well, all of this will be taken in good stride.</div>
             </div>
             <div className=''>
-            <form action="https://docs.google.com/forms/d/e/1FAIpQLSeisCDax9LdBHmWGUnh-Xz0fnYY5ej5GAjBZI0PPwlAGeusag/formResponse?usp=pp_url&entry.505759770=name&entry.411696931=suggestions" 
+            <form action="https://docs.google.com/forms/d/e/1FAIpQLSeisCDax9LdBHmWGUnh-Xz0fnYY5ej5GAjBZI0PPwlAGeusag/formResponse" 
                   className="bg-[#252A34] rounded px-1 lg:px-6 pt-6 pb-8 mb-4 max-md:px-8">
                 <div className="mb-4">
                     <label className="block text-[#EAEAEA] text-sm font-bold mb-2" htmlFor="name">
