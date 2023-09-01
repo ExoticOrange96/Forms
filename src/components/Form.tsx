@@ -19,7 +19,7 @@ function Form() {
                     <input
                         name="entry.505759770"
                         className="rounded  w-full md:w-50 lg:w-96 py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-                        placeholder="leave this empty, if you wantitl"
+                        placeholder="leave this empty, if you want"
                     />
                 </div>
                 <div className="mb-4">
