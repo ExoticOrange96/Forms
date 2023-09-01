@@ -25,10 +25,11 @@ function Form() {
                   <label className="block text-[#EAEAEA] text-sm font-bold mb-2">
                     Suggestions:
                   </label>
-                  <input
+                  <textarea
                     name="entry.411696931"
                     className="rounded w-full md:w-50 lg:w-96 py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
                     placeholder="Be bitchy."
+                    rows={5}
                   />
                 </div>
                 <div className="flex items-center justify-center">
